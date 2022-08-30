@@ -1,3 +1,4 @@
 # Technical-Homework-1
-edit file 3
+working out man great job testing testing 1 2 and 3
+hello world
 
